@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jgoodies:jgoodies-forms:1.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jgoodies/jgoodies-forms/1.9.0/eda960be2f88d47d14a81b742772b07684abc7d0/jgoodies-forms-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jgoodies/jgoodies-forms/1.9.0/2e8e3ff4fe65dc5a2b4fa6bfb2522e69ac644fc5/jgoodies-forms-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

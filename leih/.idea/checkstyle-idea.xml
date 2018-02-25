@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA">
+    <option name="configuration">
+      <map>
+        <entry key="active-configuration" value="BUNDLED:(bundled):Sun Checks" />
+        <entry key="checkstyle-version" value="7.6" />
+        <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+        <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+        <entry key="scan-before-checkin" value="false" />
+        <entry key="scanscope" value="JavaOnlyWithTests" />
+        <entry key="suppress-errors" value="false" />
+        <entry key="thirdparty-classpath" value="$PROJECT_DIR$/../GiftApi/config/checkstyle/gradle-google-checkstyle.xml;/Users/mohamedharrouch/IdeaProjects/GiftApi/config/checkstyle/gradle-google-checkstyle.xml" />
+      </map>
+    </option>
+  </component>
+</project>
